@@ -8,6 +8,7 @@ apps=(
   "Supabase|https://supabase.com/dashboard/|https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/supabase.png"
   "Neon|https://console.neon.tech/app|https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/postgres.png"
   "Gmail|http://gmail.com/|https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/gmail.png"
+  "Reddit|https://www.reddit.com/|https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/reddit.png"
 )
 
 # Loop through and call your create script
